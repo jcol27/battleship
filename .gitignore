@@ -3,6 +3,7 @@ x64
 *.vcxproj
 *.vcxproj.filters
 Makefile
+Battleship.sln
 
 # Ignore the build and lib dirs
 build
